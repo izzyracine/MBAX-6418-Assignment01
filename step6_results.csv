@@ -1,0 +1,451 @@
+dataset_index,asin,title,text,rating,true_class,predicted_class,correct,llm_raw
+1818,B086KKT3RX,Great,It's good,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+4850,B07FMJVVKW,Damaged Box,Bought this Amazon gift card with a black box. The box came damaged and was not usable.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+6861,B00IX1I3G6,Would never do again,"They don;t tell you how to use it for your own purchases.  I thought I was using it until I got a statement from my In Store"" credit card.  Still don't know how to use up the dollars.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+6979,B0091JL1I6,Cute Little Amazon Box,Really cool little box that closes with magnets. It's definitely a fun idea.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+7403,B01K8RJDEI,Great gift!,Love the snowflake tin!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+8328,B00DNAGTIQ,Gift,Easy to use,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+8878,B00K4PIKQ2,Five Stars,Makes a great gift purchase,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+12089,B0091JKU5Q,did not arrive when scheduled,"In fact, I'm still waiting for it.  Supposed to be here yesterday.  Tracking says it's (literally) 20 min from my house early in the day but couldn't quite make it here.  I hope it gets here before my trip.  Beware that a promised delivery date does not guarantee you get it on the promised day.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+12158,B00FGEHS00,It's a gift card.,You can't really go wrong with a gift card.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+12831,B07SRDJDYD,This is the perfect gift,"What’s not to like?  This card is good for anything, anytime.  I love using the Amazon Gift Card to show anyone they are loved and appreciated.",5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+13862,B00FTGTM5E,who cannot love Starbucks.,"A gift, and you forgot the gift card.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+14813,B06ZYYYHV3,Cute Presentation,"Cute and feminine, recipient loved the gift.",3.0,NEUTRAL,POSITIVE,False,"
+
+POSITIVE"
+16770,B00IX1I3G6,Would use this but NOT with CHASE Bank.,"I have had a Amazon/Chase Credit Card for years. The Chase Credit Card people are great! So to take advantage of this offer I opened a Checking Account at my Local Chase Branch and deposited 4 checks totaling about $8000. I even had one of my auto-deposits for $1800 switched to them. The manager seemed very nice until I called him a week later when my ATM card didn't work. He instantly said thee appears to be fraudulent activity regarding the checks, everyone I spoke with on the phone lied. The check is in the Mail, we will send you another check tomorrow, blah blah blah! So in may 2018, 8 months later and because I use to work for a bank which is covered under Federal Jurisdiction, I finally called the FBI. I said I'm sorry to bother you with this issue, but the FBI considered this a White Collar Crime and sent an Agent to my house and I had that check for $8000 in a week. And a week later $14,400 in auto deposits that were due me. The Chase Credit Card Division and the Banking Division  are two separate entities. The credit card people have been great, however I am starting not to use that card whenever possible as a matter of principle and there is NO REASON why I have to have a CHASE checking account to get an Amazon DEBIT Card.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+19508,B00PG4FAH8,Five Stars,kids like it,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+21535,B0866QM41K,"Changing the price to what I wanted, disappointed","I keep trying to order a $30.00 card and ordered a$30.00 card in the OTHER spot and when saving it , it always came up as $25.00. Did not like that I could not order what I wanted.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+21929,B071VCQJ24,Dissatisfied with the results.,"The gift card is beautiful. However, the gift card was sent to not only a wrong address, but wrong state. When I inquired about it, I was told they were sorry for the inconvenience, but cannot reimbursed or replace the gift card. Very disappointed with the outcome.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+22126,B00IX1I3G6,Great way to shop,Love reloading from home.  Easier to do than constantly going back and forth to the store for more cards.  Very easy and convenient,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+22402,B00IX1I3G6,Nice as a gift!,Great for gift giving and I loved the first time reload incentive!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+24440,B00JJ59UA8,Good purchase,Bought for my son in law.  He liked it.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+26065,B00BXLVIWY,My daughter loves it!,Bought during lightening deals and have as a gift.  My daughter was happy to use.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+26333,B07FKK8SFR,Great gift card,This card holder was unbelievably AWESOME!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+27188,B07HFRK4NR,Movies,Great,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+28744,B014LMWGCM,Five Stars,Love these bags!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+28824,B076417B1K,This is so cute!,Used for a group gift card. There just happened to be 5 of us and she's a dog mama.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+30424,B01MSBQB1P,Defective card,Card did not work. Called and hot automated and after 3 attempts it said it was good to go. Nope. Two grocery stores declined card,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+31331,B00CIECDEM,Five Stars,tyvm,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+34680,B01K8RJN2A,Bad Experience,"Some of the bad experience was my fault for challenging the charge, but no one told me they were not unlocking the amount on the cards when I paid the bill.  It was an embaressment when my grandchildren tried to use them and were rejected.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+34953,B0160LI5T0,the gift cards came nicely packaged.,"I was supposed to get a $5 credit for each gift card purchased (2 X $5) but I have not seen the credit. Not sure if this is an Amazon problem or the card used. Otherwise, the gift cards came nicely packaged.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+35162,B00IX1I3G6,Great way to save,"Back in the day, my bank used to have something called Christmas Club where the bank would automatically put your chosen amount from your checking to Christmas account, and in December you would have money saved up.  That never worked for me because I always would up using it for other things.<br /><br />I am now using my Amazon Gift Card as a Christmas Club.  Every month I move a certain amount from my checking account to the card.  The best part is, I can't use it anywhere but Amazon. So, I can't decide that I want to go out to a posh restaurant just for the hell of it, my money is safely at Amazon where I can't get it.  That's a good thing, because I do most of my shopping at Amazon anyway, and now, I'll have ""free"" money to spend for Christmas, or save up for something my family really wants.",5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+35722,B07Y93PHLP,No card,I wrote a card to go with the gift card and the person got the gift card and had no idea who it was from,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+36779,B00BXLW38M,Three Stars,As usual,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+37035,B00IX1I3G6,Why refund is not avalible,Cannot ask for a refund .Sad,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+39307,B0080IR6RY,Gift card in a tin,Liked the packaging; perfect with a ribbon bow for a gift,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+43820,B014S24B28,just like the description,"It's a gift card, just like the description.",5.0,POSITIVE,NEUTRAL,False,"
+
+NEUTRAL"
+44246,B086KKT3RX,terrible desicion,nothing to review,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+44675,B00IX1I3G6,Not happy,Reloaded wrong balance because it didn’t confirm for me to check.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+44991,B077T9WSSN,Looks Good,I like because it  worked,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+45736,B01MSBQB1P,DOES NOT WORK.  Don't buy,DO NOT buy these. I gave two as gifts and neither worked. This company does not no accept returns..contact amazon !  I would not recommend this product!!  There is nothing to activate on your end..they are just taking your money.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+46294,B0747TDN6L,Nothing special,These are made of a thin cardboard material and not quite as nice as we had hoped. We ended up stocking up on clearance sales of the nicer boxes for about half the price.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+46713,B086KKT3RX,works but could be simpler,works but could be simpler to use,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+47258,B00IX1I3G6,It should be Clearer and Easier to Give money to Amazon,"I wanted to apply 2 gift cards that I received in the mail to reload my gift card balance.  I found the web site unclear, and the correct way to do this difficult to find (I don't do this frequently).  Maybe the site is very clear if you are trying to do what they expect, but when you approach it from another perspective, you find that there are other ways to interpret the directions.  It was not hard to make the mistake.<br /><br />Fortunately, the Amazon people were very helpful.  They helped me clean up my mess, and showed me how I should have done it.  Hopefully, I will remember what they said and be able to find the right way next time.  But I'm a bit worried - not so sure.",3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+48431,B01K8RMDO0,Not sure whats going on here!,I bought these 2 gift cards under the buy $50 worth of gift cards and receive a $15 credit. I have not seen the $15 dollar credit and now it says I'm not eligible with NO reason! Someone please explain!,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+48687,B00BXLUDXO,Three Stars,Didn't realize there wasn't a store in the area,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+50375,B00IX1I3G6,Confusing.,Had to take it out of a different account. Kinda confusing.,2.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+50542,B06WVJBLBQ,Needs more,The recipient did know who the gift card was from.,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+53097,B00IX1I3G6,Card,Work,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+54437,B00IX1I3G6,Love it,Just something special,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+56329,B006PJHPV2,Five Stars,LOVE,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+57971,B07GFQ5B44,The tab covering the barcode was missing,The tab covering the barcode was missing. Does this mean the card has been compromised?<br />The package states a tab should be covering the barcode upon arrival.  I inked parts of the barcode on the picture for safety. Please advise.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+58022,B005J045DE,Don't trust the shipping,"Bought this as a Christmas gift for my son's teacher and it took almost a full week to arrive, too late to give it to her. I was willing to pay extra for 1-day shipping to make sure it arrived quickly and was pleasantly surprised to see that it came with free 1-day shipping. Next time I'll buy an e-gift card and print it off myself.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+58514,B07DDDS9R4,It's a gift card,And it's not free,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+60465,B00JJ59UA8,Hold out until pandemic in the past to eat here.,Carry out pathetic! Taking tremendous advantage of customers during pandemic! Prior inside dining gave much larger portions and better quality food!,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+61016,B077T9WSSN,Everyone likes Amazon gift card.,Almost everyone shops in Amazon.Best gift card.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+61953,B00IX1I3G6,Great!,Works Great!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+62466,B00IX1I3G6,GREAT,Just what I needed,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+63248,B01MSBQB1P,Five Stars,Great,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+63931,B07FX8QBVH,Very embarrassed and dissatisfied with this product!,I purchased this card for my Mother's 80th Birthday present. She attempted to use it to purchase an electric skillet for Amazon but it kept coming up as declined when she used it to pay for the skillet at checkout!  My Mom is on a fixed income and she ended up having to use her Social Security money to pay for the skillet! I got this item because it specifically stated that the card works online and at retailers!!! But it did not work. Very frustrated!,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+64625,B0725J7VW7,Great versatile gift!,Great gift that allows the receiver to Pick what they really want!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+66022,B072P5VV4D,how cute these are!!!,Absolutely a must for the holiday gift exchanges. Great gift and already wrapped.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+66061,B0725JM87R,Easy gift for themselves,I bought 3 to give to my nephews,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+67519,B0725J7VW7,Card did not work....very upset,I bought this card for $50 used it on a boat cup holder! Thought it accepted it! When I got  item it was charged to my credit card! So I threw the card away! Is there any way that the card can be replaced!,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+67604,B00IX1I3G6,giftcard,accidently ordered but it was reimbursed,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+69534,B00CIECDEM,Five Stars,perfect - quick ship,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+69834,B00IX1I3G6,Do we really get a 2% back???,"It claims you get a percentage back but I've never seen it.  Not saying I didn't, just saying I can't see it.",3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+70183,B0108MGLWU,Its a scam,Rec'd this as a gift. Purchaser was told it is accepted at restaurants in our area....closest restaurant is about 60 miles away and most of the restaurants had poor reviews......does not deserve any stars,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+71550,B00IX1I3G6,Bonus on reload,"I’m 100% sure Amazon will not print my honest review!!  This reload gift card for $10.00 bonus credit is deceiving, false, and a BIG LIE!!!  I’m a sucker but no more.  Buyers beware and read the fine print.  Amazon shows the total bonus credit being subtracted from the order but when one checks out it doesn’t subtract the bonus. Why I asked myself and then read that the bonus is only valid on the first reload even though Amazon falsely shows it as applying with each reload. I’ve done my final reload!!  Amazon is becoming more sneaky every day. Prices on items in cart can increase substantially within a few seconds. Plus many of the items are way overpriced.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+74269,B01C9MW8Z6,you messed up,"you neglected to send the box, and birthday card showing who it was from. Shame on you",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+74627,B07GHDHKPN,This card sucks,Do not buy it it's too hard to activate very useless!!!!!!!!!!!,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+75023,B00IX1I3G6,Problem,I used the reload a lot. My grandchildren chunked the card in the trash. Now Amazon is asking me to re-type my whole credit card number to re-load but I can't,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+75154,B00IX1I3G6,Way to split payments if needed,Quick reload easy to split payments on big purchases,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+76561,B00IX1I3G6,Nice,Nice,3.0,NEUTRAL,POSITIVE,False,"
+
+POSITIVE"
+78253,B01E4QQ6QM,Arrived quickly (the next day) but I gave it 3 ...,Arrived quickly (the next day) but I gave it 3 stars because the card was not plastic and it was bent. Looked as if it wasn't new. The Kraft paper was also slightly bent. It's cute but looks as if someone folded it.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+78259,B00IX1I3G6,5% sweet sauce,Sweet sauce. Thanks for the extra $5,5.0,POSITIVE,NEGATIVE,False,"
+
+NEGATIVE"
+79094,B00IX1I3G6,Easy as usual,"Easy, easy, easy",5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+79190,B00IX1I3G6,Five Stars,timely and great feature for this particular purchase.  thank you very much.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+79199,B01LXGGQXW,The envelope is ripped,The envelope is ripped. This is a supposed to be a gift...,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+81064,B01N5TMK8I,Too much for purchase,Too much for purchase,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+81132,B00IX1I3G6,Three Stars,Not obvious where to check the balance after reload.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+82438,B00IX1I3G6,Quick & easy,Nice and useful feature,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+83542,B00F2RZPOM,Five Stars,Great gift.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+84207,BT00CTP0SM,Fairly Nice,"It is nice to buy a gift card for a present, but it would be nice if the envelopes they seal the cards in did not say Amazon right on them... kind of gives what is inside away.",3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+85151,B01K8RMDO0,No where to write the Gift Card Value,"This looks beautiful. I have no idea if the value is correct or not, but my initial issue is that I am going to have to verbally tell the recipients what the value of the cards are because there is nowhere that it can be written. That the is the first thing someone wants to know when they receive a gift card.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+90536,B01K8RMDO0,Damaged box.,"I bought three gift cards in nice, cute boxes. This one came in terrible shape. It wasn't any fault of shipping, they all came together but this was the only ruined one. They won't replace or refund so they're getting a 1 star review.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+93165,B00X6G8WCI,Buyer beware!,"Stay away from these gift cards.<br />I purchased these for Christmas gift and they didn’t work.<br /><br />I tried to apply them to my kids account and when entered we got a “invalid code warning”<br /><br />Double checked and tried again same result<br /><br />Code was already claimed, but not by us. They are selling bogus cards.<br /><br />Don’t wast your time or money.<br /><br />Buyer beware!",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+93671,B0719C5P56,STOLEN! By Amazon Driver??,"Well I am glad that Amazon has refunded the money and sent out a new card!!  However, the lady at Amazon refused to take any type of steps to cancel the card?? Or to investigate, not sure if Amazon has any way of tracking a driver's whereabouts at specific times during the day? This was dropped off ""allegedly"" into the mail room. I have never in all my years dealing with Amazon (which I do quite frequently) have had anything go missing! This was small enough for a driver to put in their pocket and just claim they delivered it! want video evidence of whether or not the driver ever entered in the building and into the mail room, the whole place is covered in security cameras! There are only two options, mailroom stole it or the driver stole it. I am betting it was the driver... you know CAMERAS. AMAZON DOESN'T ASK FOR A SIGNATURE WHEN DROPPING OFF ITEMS TO A PERSON WHO IS NOT THE INTENDED RECEIVER???",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+94939,B07HJHK8Y5,Would be 5 stars without activation fee,"Git card for someone who did me a huge favor,  Would be 5 stars except for the service fee.  Would have gone with an entirely different card except I needed the card to be multi-purpose.  There’s a reason I usually avoid VISA gift cards - the activation fee.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+95149,B086KKT3RX,Thought it was for a gift card :(,Confusing,2.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+96790,B071VCQJ24,Good,Good to use,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+97001,B00IX1I3G6,It's ok,"It's a pain to figure out how, but after that it works",3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+97872,B0078EPRPE,we love ihop,great lightning deal,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+98960,B005ESMGZU,Great job Amazon,Takes up way less space in my wallet than 50 singles would. Great job Amazon!,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+99713,B00IX1I3G6,Thanks,This didnt work out how i tried but was refunded,1.0,NEGATIVE,NEUTRAL,False,"
+
+NEUTRAL"
+100690,B01E4QR5LC,One Star,I was supposed to receive a $15 promotion for buying this card and never did!!  I feel cheated!,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+103402,B00OR54DES,Awesome mom or grandma gift,This is an awesome gift if you have a mom or grandma addicted to QVC. Lol..my mom loves getting these,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+103693,B00IX1I3G6,Three Stars,I liked the book but I need more recipes as my husband is very fussy. LOL,3.0,NEUTRAL,POSITIVE,False,"
+
+POSITIVE"
+104214,B06ZY44YG4,Great gift idea,"The gift recipient was my friend who is getting married and she actually made a comment about how pretty the box was not knowing it was even an Amazon gift , only thing is the gift card wasn’t where it should be but it made for a good laugh when it popped out. Overall it’s a cute package and a great gift idea. PS-she used the gift card for her cake toppers she was eyeing up on Amazon 👩‍❤️‍👨",5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+106226,B002Q1QQUY,Quick delivery of AMC card. DOES NOT ACCEPT AMAZON POINTS,"I ordered a $50 amc card and it was delivered within a week. Looking at so many negative comments, I promptly checked  the balance and found $50 value balance in the card. My experience is really good and satisfactory.<br />The only negative point is they charge for deliver about $2. So, I gave 4 star.<br /><br />--04-Jul-2012<br />I would like to edit my rating. I had ordered the gift card using Amazon points however my credit card was charged. When I contacted the seller giftmall, I was told that amazon points are not accepted for AMC gift card. This is very SAD. Why would anyone buy this gift card with credit card and paying 2.99 shipping charge. This is insane.<br />THIS IS THE WORST EXPERIENCE I HAD ON AMAZON. PLEASE NOTE THAT GIFTMALL WILL NOT ACCEPT AMAZON GIFT POINTS.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+107635,B077DLFNTW,Wasted $50,card came with the activation code ripped which rendered the card unusable.  wasted $50 as Lyft does not have a customer service phone number.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+109243,B071VCQJ24,Fun chimney gift card and holder,Just what he asked for.  Nice presentation.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+109671,B014S24B28,Five Stars,A winner every time,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+109710,B015WZDBPS,they will purchase good tacos. The gift cards are very plain,I will give these as gifts. they will purchase good tacos. The gift cards are very plain.,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+110554,B01MSBQB1P,You delivered a gift card which is like cash to the wrong address.,"Gift cards are like cash and should be treated like cash so when you give it to someone that wasn't supposed to get it, it might be hard to track down the next day. So you should deliver the gift cards to the ACTUAL address it was delivered to. You just made some stranger a merry christmas while im sitting here writing this.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+111351,B01MSBQB1P,Something's not quite right.,"My apologies, I was quite p/o-ed it took 4 (four) days, plus, to delivere such a large item as a car<br />. Missing my son's big 50 birthday, which I could not attend. Perhaps, l Prime has loop holes somethings fall thru. With that said, keep improving and have a good day.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+113487,B07MZS4F18,Important catch Spotify doesn't mention,"This is not giftable to anyone who has additional services bundled with Spotify like hulu. To use this card you must have *only* Spotify. This means of you already have a bundle your are forced to get rid of it, and for some bundles that means you can't ever get it back.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+114095,B01K8RL9C2,wrong house,"gift card delivered to vacant house (wrong house) luckily my son has surveillance camera and I showed him photo of the place it was delivered.  he scouted neighbor and found it,  ugh!!! not happy",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+114979,B086KKT3RX,Old way was better,"Why did this change? The old way, I could add gift cards that had only a few dollars left on them fairly easy, without adding the card to my account first. This is a huge hassle now, and it does NOT take 5 minutes, takes much longer.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+115265,B00BXLVD8I,No longer taken at Pei Wei,"Since Pei Wei and PF Changs separated businesses in early 2019, these cards are no longer accepted at Pei Wei, even though the cards say they are.  Would have been good to know before I wasted the money on a gift card for a restaurant that I don't go to.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+115861,B07Q41YCPJ,Different card Received then pictured!,Hope it’s not a fake because it looks totally different then the card pictured!!!!,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+117626,B001H53QDK,GE Amazon card is CROOKED,Worse possible outfit.  They could not get my bank routing in their system correctly causing returned payments.  DUH  I put in the right numbers but they processed it wrong or something and then immediately cancelled the account.  GE is and has been a stagnant stock and now they are resorting to what is in my opinion crockery.<br /><br />STAY AWAY FROM THESE GUYS.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+119101,B0719C5P56,instruction do not match invoice,instructions state to match serial number code to purchase to see amount but in the invoice description there is no number to match it to.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+121928,B005ESMF5G,Five Stars,Daughter loved it. Thank you for the opportunity,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+122456,B086KKT3RX,Amazon gift card,"I have just spent an hour of my precious time trying to place my gift card on my account!! It use to be so easy, even for an old lady like me, but you’ve changed the format and I never got to where I needed to be.<br />I even googled for help and that didn’t work<br /><br />Would someone please help me out here?",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+122572,B086KKT3RX,Why change the behavior without notifying?,"It's unfortunate that everytime Amazon changes this app, it seems to go the wrong way. I now have a very slow app, and for some reason the balance reload changed to pick my default buying card. It used to work great by using a different default card. I have a credit card to pay for purchases and a debit card for reloads. The app knew this before, now they decided it was not good enough and I have to remember what card to use for what purpose. Seriously, no UX experts running that show.",2.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+122616,B086KKT3RX,"Good bonus, but",Can’t be transferred again to my debit card when I don’t use the money,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+122700,B086KKT3RX,Fast & Easy,The process is simple and easy to use to convert your gift card to Amazons gift card.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+122927,B086KKT3RX,"Money,value for the money!!","I really like the reload,I do most of my shopping on Amazon.Keep up the good work",5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+123634,B07HJD9FVV,Where's My Money!?!,"I bought gift cards for my family for Christmas. They were sent to me with being activated, even though I was charged for the activation. Now my family is trying to use them and they're worthless. I/we have been trying to get my money back for a month now and Amazon is still ""investigating"". I'll never, never, never by gift cards from them again!",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+123694,B0080IR72S,Gift Box Dented / No Gift Message Included,"Person I sent it to received a one hundred fifty dollar gift card inside the extremely dented gift box inside a manila envelope.  The gift box was dented right down the center, from top to bottom.  Gift message that I had entered upon checkout was nowhere to be found, so the person had no idea who it was from.  Hopefully they don't have any problems using it.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+127219,B0091JKYLQ,Item arrived crushed,Boxed was packed in an envelope. The tin was crushed when it arrived. Would have otherwise been nice to give.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+127340,BT00CTP05K,Food Stains?,"Got a couple of gift cards - but why are the envelopes sealed?  I had planned to write a message in them.  Also, one had a big, chocolate thumb print on it!",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+127893,B00IX1I3G6,I made a selection error but tried to change it ...,"I made a selection error but tried to change it but unable to, so I was not able to take advantage of the offer.",2.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+128050,B06ZY44YG4,Paper gift card gets stuck in box,"I was very worried the gift card was lost or stolen.  As I was about to contact Amazon, I looked at the reviews.  The first two reported the card got stuck in the box.  This is exactly what happened.  The paper, not plastic, card got wedged up in the box.  Redesign the box to open up vs slide out might help",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+128507,B01E4QP6RW,Nice presentation for a gift card except for the fact ...,Very cute and different.  Nice presentation for a gift card except for the fact that it arrived folded incorrectly and didn't pop up when opened.  I tried but couldn't correct it.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+129304,B01K8RMDO0,No amount on card and directions are inaccurate!,"Ordered several cards of different amounts. All cards are the same. Instructions say to check the serial numbers in ""My Orders""... well they AREN'T listed there! No help from customer service yet... VERY DISAPPOINTED!",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+129905,B00IX1I3G6,Two Stars,"I don’t even see it anymore, I don’t know if you have to be a member or not.",2.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+130398,B0160LI5T0,Three Stars,Is anyone going to read this? They're gift cards.,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+131092,B005ESMGZU,Five Stars,Great,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+133381,B06ZY44YG4,Box was damaged upon arrival,"The gift card itself was fine, no issues.  The premium box it arrived in was a bit crushed and there doesn't seem to be a way to ask for a replacement box without a new gift card.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+134288,B00IX1I3G6,Gift Card Reload,Very easy and quick process.,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+134522,B07GH6WX29,Buy visa instead,Can’t use it anywhere it comes up declined even after registering in the card,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+134529,B07GH6WX29,I got visa gift card i cant use it,I got gift card visa i cant use it,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+134567,B07GH6WX29,I got visa gift card i cant use it,I got gift card visa i cant use it,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+135262,B086KKT3RX,"Found both website and app difficult follow,","Took me several tries to load $100to the card. The check boxes didn't work.finally ,after checking either 60 or 100, i wrote in the amount in the other box. Bingo!!!",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+135399,B08B3NYGBF,GREAT,GREAT,3.0,NEUTRAL,POSITIVE,False,"
+
+POSITIVE"
+136077,B00IX1I3G6,don’t reload huge amounts,it’s okay,3.0,NEUTRAL,NEUTRAL,True,"
+
+NEUTRAL"
+138157,B001H53QDU,Amazon Gift Card,I recall purchasing gift cards in the past which were e-mailed to the recipient.  Now you mail a actual plastic card and charge postage?  How 20th Century.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+138990,B0091JKU5Q,One Star,Terrific presentation!!,1.0,NEGATIVE,POSITIVE,False,"
+
+POSITIVE"
+140378,B00IX1I3G6,Tricky Checkout,I purchase this by accident.  Be careful when you order anything from Amazon.  Check out is a little tricky.,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+141483,B0091JKFG0,Unhappy,I received the Gift Card on 12/27 afternoon.  My relative had left my home back to New York on 12/26 morning with no X'mas gift from me. :(,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+141711,B01MSBQB1P,Doesn't appear to work at the pump.,"The odd outer paper wrap (in which there appears no satisfactory way of opening) boasts that this card can be used wherever Visa is accepted.  I found this not so in my experience.  The gas pump card reader does not appear to work with this at all.  Use it unregistered, use it and create a PIN online.  It doesn't appear to matter much.  We get an instant 'decline' as though it doesn't even try to read the thing.  I may well have run out of gas completely trying in vain to use this.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+141991,B004H1M6GY,I am lucky that I looked at the reviews because ...,I am lucky that I looked at the reviews because I thought it was 100 for 100.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+142060,B00OOKDO4Q,Three Stars,this came 1 week late don't buy it,3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+142260,B00IX1I3G6,SCAM,Horrible! You took $100. out of my account but my son never received the ecard. I  ended up going to the store and purchasing another $100. gift card.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+143516,B00AS527QW,"Refusal of Boone,NC Regal theater to redeem $50 in Fandango  gift tickets",Could not find any procedure online  to  handle exchange as theater said to do.Money paid in good .Seems improper to me.,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+145979,B0719C5P56,Total Screwup,"Ordinarily, Amazon does great with these.  We give out these cards as Christmas gifts. But this year they sent us the cards which were supposed to have the appropriate balance. Unfortunately the cards all had a zero balance.  We gave them out and found that out after the fact when the people told us. Embarrassing!!  They did put the money in my account as a gift-card balance but now I have to get the gifts again and of course it is after Christmas.  A TOTAL SCREWUP!!!",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+147871,B00IX1I3G6,When it works,"Good if it works, I had to use three different cards before it worked. All had enough balance to accomodate adding funds, but found it disappointing.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+149140,B0091JKU5Q,I wrote a message to show who it was from ...,"I wrote a message to show who it was from as it was a gift.  No message inside,  so recipient didn't know who sent.",3.0,NEUTRAL,NEGATIVE,False,"
+
+NEGATIVE"
+149274,B00IX1I3G6,Five Stars,Nice,5.0,POSITIVE,POSITIVE,True,"
+
+POSITIVE"
+151913,B07WRT8KQ9,Impossible to use,Unable to convert to Top Golf as stated.  Website never works and no customer service to return calls.  DO NOT BUY THIS GIFTCARD,1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"
+151920,B00IX1I3G6,Make sure you read all the fine prints. Don’t trust customer representative.,"I saw the promotion about loading $100 get $10 gift. I called in to verify if I can load multiple transactions to make up total $100. Been told multiple translation is acceptable. After done it, realized I’m not qualified for the $10 gift due to multiple transactions. After the fact I saw there is a fine print says it needs to be done in one transaction to be qualified.",1.0,NEGATIVE,NEGATIVE,True,"
+
+NEGATIVE"

@@ -1,0 +1,13 @@
+# Local secrets -- never commit
+.env
+.env.local
+*.env
+!*.env.example
+
+# Downloaded dataset (can be re-fetched by step2_classify.py)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
